@@ -26,19 +26,6 @@ const destinations = [
     tips: "Pack your own food and drinks as facilities are limited. Best on weekdays for a quieter experience."
   },
   {
-    name: "Buhangin Beach",
-    city: "Island Garden City of Samal",
-    category: "Beach",
-    image: "images/buhangin.jpg",
-    description: "A popular, family-friendly Samal beach with golden sand, calm warm waters, and resort facilities.",
-    fullDesc: "Buhangin Beach is one of the most accessible beaches on Samal Island, making it a favorite day-trip spot for families from Davao City. Calm, warm waters and several resorts offer accommodation, water sports equipment, and seafood restaurants.",
-    activities: ["Swimming", "Beach volleyball", "Water sports", "Family picnics", "Snorkeling"],
-    bestTime: "March to June",
-    fee: "₱50–₱150 resort entrance",
-    hours: "6:00 AM – 6:00 PM",
-    tips: "Accessible from the Babak ferry terminal. Weekday visits avoid the weekend crowds."
-  },
-  {
     name: "Carmen Beach",
     city: "Carmen",
     category: "Beach",
